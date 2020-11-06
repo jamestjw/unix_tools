@@ -8,4 +8,5 @@ Implemented:
 * ls [-l] filename
 * stat filename
 * tail [-n5] filename
+* find filename `(this doesn't work like the real unix find, it does recursively print out filenames though, hence it is once step away from finding a file based on a given input pattern)`
 
